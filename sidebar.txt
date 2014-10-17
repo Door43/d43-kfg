@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfg:home|Door43 (kfg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfg|d43-kfg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfg/archive/master.zip|d43-kfg.zip]]
+
+**Recent Changes**
+{{changes>ns = kfg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfg|Ethnologue data]]
+
